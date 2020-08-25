@@ -1,0 +1,19 @@
+General Metrics of the Server:
+                               Sever's current state (running or not) via ping etc
+
+                               In CPU:
+                                      CPU used
+                                      CPU load
+                                      CPU temperature
+
+                               In Memeroy and disk:
+                                      Memory usage
+                                      Disk space usage
+                               In Input outputs:
+                                      I/O
+                                      IO read and IO write
+                               In Network:
+                                      Network traffic
+                                      TCP connection states
+Application metrics:
+                               SSL certificate validate status
