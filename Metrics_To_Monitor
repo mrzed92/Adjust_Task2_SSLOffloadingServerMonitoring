@@ -5,15 +5,20 @@ General Metrics of the Server:
                                       CPU used
                                       CPU load
                                       CPU temperature
-
                                In Memeroy and disk:
                                       Memory usage
                                       Disk space usage
+                                      Ulimits                                     
                                In Input outputs:
                                       I/O
                                       IO read and IO write
                                In Network:
                                       Network traffic
                                       TCP connection states
-Application metrics:
+                                      Bandwidth usage
+
+                                Application metrics:
+                                
                                SSL certificate validate status
+                               Latency
+                               Errors
